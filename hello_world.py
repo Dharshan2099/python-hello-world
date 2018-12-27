@@ -1,5 +1,8 @@
-def print_hello_world():
+def hello_world():
     print('Hello World')
 
+def say_motto():
+    print('Victory above all')
+
 if __name__ == "__main__":
-    print_hello_world()
+    hello_world()

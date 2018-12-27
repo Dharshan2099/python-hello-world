@@ -7,4 +7,4 @@ def say_motto():
 if __name__ == "__main__":
     hello_world()
 
-say_motto()
+#say_motto()
